@@ -6,7 +6,7 @@ module.exports = {
     kategori: "genel", 
     alternatifler: ['rol-ver'],
     kullanım: "!rol-ver", 
-    yetki: "MANAGE_GUILD",
+    yetki: "MANAGE_ROLES",
     args : [
 {
     anahtar:"rolverilecekkisi",
